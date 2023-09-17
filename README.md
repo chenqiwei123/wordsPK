@@ -9,7 +9,6 @@
 
 ## UI截图
 
-![s_1](http://img.i7xy.cn/20210123195933.jpg)
 ![s_2](http://img.i7xy.cn/20210123195932.jpg)
 ![s_3](http://img.i7xy.cn/20210123195935.jpg)
 ![s_4](http://img.i7xy.cn/20210123195929.jpg)
